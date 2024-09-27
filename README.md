@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kheed99
-- 👀 I’m interested in . Artificial Intelligence, Data Science, Blockchain Technology..
-- 🌱 I’m currently learning . Website development, Python programming, Dart Programming, Database Management with SQL..
-- 💞️ I’m looking to collaborate on .. Mobile App development,Web 3 projects.
-- 📫 How to reach me: +260762572311
+- 👀 I’m interested in . Artificial Intelligence, Data Science, Mobile App Development..
+- 🌱 I’m currently learning . Website development, Python programming for Data Science, Mobile App Programming, Database Management with SQL..
+- 💞️ I’m looking to collaborate on .. Mobile App development,Data Science Projects.
+- 📫 How to reach me: +260762572311, 
 - 😄 Pronouns: He/Him👨🏽👨🏽
 - ⚡ Fun fact: Proud last born😎
 
